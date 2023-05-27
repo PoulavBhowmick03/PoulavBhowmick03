@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Front-End Web Developer
 -------------------------
 
+![blue simple online Portfolio (1)](https://github.com/PoulavBhowmick03/PoulavBhowmick03/assets/133862694/0d85ccc8-b3f9-47f9-98c3-e99c6ebfe39a)
 
-![blue simple online Portfolio](https://github.com/PoulavBhowmick03/PoulavBhowmick03/assets/133862694/4f16871e-65dc-45c1-881a-03bdeb89e9cf)
 
 * 🌍  I'm based in Kolkata
 * ✉️  You can contact me at [bpoulav@gmail.com](mailto:bpoulav@gmail.com)
