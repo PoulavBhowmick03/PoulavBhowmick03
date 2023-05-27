@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Front-End Web Developer
 -------------------------
 
-👋 Hi, I’m Poulav Bhowmick 👀 
 
 ![blue simple online Portfolio](https://github.com/PoulavBhowmick03/PoulavBhowmick03/assets/133862694/4f16871e-65dc-45c1-881a-03bdeb89e9cf)
 
