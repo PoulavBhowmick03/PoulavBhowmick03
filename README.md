@@ -16,6 +16,9 @@ A Front-End Web Developer
 src="https://img.shields.io/github/followers/PoulavBhowmick03?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a><a href="https://www.twitter.com/impoulav" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/impoulav?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
 /></a>
+
+<img src="https://profile-counter.glitch.me/{PoulavBhowmick03}/count.svg" alt="PoulavBhowmick03 :: Visitor's Count" />
+
 ### Skills
 
 <p align="left">
