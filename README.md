@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Poulav Bhowmick
 =======================================================================================================================================
 
-A Front-End Web Developer
+A Full-Stack Web Developer
 -------------------------
 
 ![blue simple online Portfolio (1)](https://github.com/PoulavBhowmick03/PoulavBhowmick03/assets/133862694/0d85ccc8-b3f9-47f9-98c3-e99c6ebfe39a)
