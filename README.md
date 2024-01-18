@@ -7,6 +7,7 @@ Full stack Web and Blockchain developer, aspiring ML dev
 * ✉️  You can contact me at [bpoulav@gmail.com](mailto:bpoulav@gmail.com)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on building projects, participating in hackathons, freelancing in web development
+* Looking for internships or freelance work
 
 <a href="https://www.github.com/PoulavBhowmick03" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/PoulavBhowmick03?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/impoulav" target="_blank" rel="noreferrer"><img
