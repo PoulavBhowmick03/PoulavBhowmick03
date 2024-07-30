@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poulavbhowmick03&label=Profile%20views&color=0e75b6&style=flat" alt="poulavbhowmick03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poulavbhowmick03" alt="poulavbhowmick03" /></a> </p>
-
 - 🌱 I’m currently learning **Cairo, Rust**
 
 - 💬 Ask me about **Web Development and Web3**
