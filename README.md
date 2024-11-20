@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web and Blockchain Developer | Starknet Wolf 🐺</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poulavbhowmick03&label=Profile%20views&color=0e75b6&style=flat" alt="poulavbhowmick03" /> </p>
 
-- 🐺 Starknet Wolf and active contributor to **[Starknet](https://starknet.io)** and **[Solana](https://solana.com)** ecosystem
+- 🐺 Starknet Wolf and active contributor to **[Starknet](https://starknet.io)** ecosystem
 - 🧑‍💻 Founder of **[StarkFinder](https://stark-finder.vercel.app)** | AI agent on Starknet enabling prompt based transactions
 - 🧑‍💻 Founder of **[Midofinance](https://midofinance.com)** | Empowering DeFi innovation
 - 🌱 Currently diving deep into **Cairo** and **Rust**
