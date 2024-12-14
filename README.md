@@ -6,7 +6,7 @@
 - 🧑‍💻 Founder of **[StarkFinder](https://stark-finder.vercel.app)** | AI agent on Starknet enabling prompt based transactions
 - 🧑‍💻 Founder of **[Midofinance](https://midofinance.com)** | Empowering DeFi innovation
 - 🌱 Currently diving deep into **Cairo** and **Rust**
-- 💰 Recipient of **Superteam Grants**, helping to shape the Web3 ecosystem
+- 💰 Recipient of **Starknet Seed Grants**, helping to shape the Web3 ecosystem
 
 ### Let's connect and talk tech! 💬
 - **Ask me about:** Web Development, Web3, Starknet, and Blockchain Architecture
