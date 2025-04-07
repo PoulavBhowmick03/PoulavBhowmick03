@@ -21,7 +21,7 @@
 
 ## 🌟 Notable Open Source Contributions
 
--  [Contributions at Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3APoulavBhowmick03+is%3Aclosed)
+-  [Contributions at Reth](https://github.com/paradigmxyz/reth/commits/main/?author=PoulavBhowmick03)
 -  [Contributions at Alloy](https://github.com/alloy-rs/alloy/commits/main/?author=PoulavBhowmick03)
 -  [Contributions at DayDreams](https://github.com/daydreamsai/daydreams/pulls/PoulavBhowmick03)
 -  [Wrote multiple Cairo smart contracts and tests](https://github.com/AFK-AlignedFamKernel/afk_monorepo/pulls?q=is%3Apr+author%3APoulavBhowmick03+is%3Aclosed) for [AFK Labs](https://github.com/AFK-AlignedFamKernel/afk_monorepo)
