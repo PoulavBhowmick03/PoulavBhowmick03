@@ -21,9 +21,11 @@
 
 ## 🌟 Notable Open Source Contributions
 
--  [Contributions at Reth](https://github.com/paradigmxyz/reth/commits/main/?author=PoulavBhowmick03)
--  [Contributions at Alloy](https://github.com/alloy-rs/alloy/commits/main/?author=PoulavBhowmick03)
--  [Contributions at DayDreams](https://github.com/daydreamsai/daydreams/pulls/PoulavBhowmick03)
+-  [Reth](https://github.com/paradigmxyz/reth/commits/main/?author=PoulavBhowmick03)
+-  [Lighthouse](https://github.com/sigp/lighthouse/pulls/PoulavBhowmick03)
+-  [Alloy](https://github.com/alloy-rs/alloy/commits/main/?author=PoulavBhowmick03)
+-  [Revm](https://github.com/alloy-rs/alloy/commits/main/?author=PoulavBhowmick03)
+-  [Kona](https://github.com/op-rs/kona/pulls/PoulavBhowmick03)
 -  [Wrote multiple Cairo smart contracts and tests](https://github.com/AFK-AlignedFamKernel/afk_monorepo/pulls?q=is%3Apr+author%3APoulavBhowmick03+is%3Aclosed) for [AFK Labs](https://github.com/AFK-AlignedFamKernel/afk_monorepo)
 -  [Added new routes and worked on the Rust backend](https://github.com/lfglabs-dev/api.starknet.quest/pulls?q=is%3Apr+is%3Aclosed+author%3APoulavBhowmick03) for [Starknet Quest](https://github.com/lfglabs-dev/api.starknet.quest)
 -  [UI UX and Backend integration](https://github.com/bitcoin-sv/bsv-faucet/pulls?q=is%3Apr+author%3APoulavBhowmick03+is%3Aclosed) for [BSV Faucet](https://github.com/bitcoin-sv/bsv-faucet/)
