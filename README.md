@@ -23,6 +23,7 @@
 
 -  [Reth](https://github.com/paradigmxyz/reth/commits/main/?author=PoulavBhowmick03)
 -  [Lighthouse](https://github.com/sigp/lighthouse/pulls/PoulavBhowmick03)
+-  [Rust-libp2p](https://github.com/libp2p/rust-libp2p/commits/master/?author=PoulavBhowmick03)
 -  [Alloy](https://github.com/alloy-rs/alloy/commits/main/?author=PoulavBhowmick03)
 -  [Revm](https://github.com/bluealloy/revm/pulls/PoulavBhowmick03)
 -  [Kona](https://github.com/op-rs/kona/pulls/PoulavBhowmick03)
