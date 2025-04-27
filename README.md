@@ -1,15 +1,15 @@
 <h1 align="center">Hey there 👋, I'm Poulav Bhowmick</h1>
-<h3 align="center">Full Stack Web and Blockchain Developer | Starknet Wolf 🐺</h3>
+<h3 align="center">Core Ethereum Contributor and Blockchain Dev </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poulavbhowmick03&label=Profile%20views&color=0e75b6&style=flat" alt="poulavbhowmick03" /> </p>
 
-- 🐺 Starknet Wolf and active contributor to **[Starknet](https://starknet.io)** ecosystem
+- 🐺 Active contributor to **[Ethereum](http://github.com/ethereum)** and **[Starknet](https://starknet.io)** ecosystem
 - 🧑‍💻 Founder of **[StarkFinder](https://stark-finder.vercel.app)** | AI agent on Starknet enabling prompt based transactions
 - 🧑‍💻 Founder of **[Midofinance](https://midofinance.com)** | Empowering DeFi innovation
 - 🌱 Currently diving deep into **Cairo** and **Rust**
 - 💰 Recipient of **Starknet Seed Grants**, helping to shape the Web3 ecosystem
 
 ### Let's connect and talk tech! 💬
-- **Ask me about:** Web Development, Web3, Starknet, and Blockchain Architecture
+- **Ask me about:** Ethereum, it's Architecture, Starknet and web3
 - **Reach me at:** bpoulav@gmail.com
 
 <h3 align="left">Connect with me:</h3>
