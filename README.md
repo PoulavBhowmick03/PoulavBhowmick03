@@ -1,6 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Poulav(Odinson)</h1>
-<h3 align="center">protocol fellow at ethereum and rust dev 🦀 </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poulavbhowmick03&label=Profile%20views&color=0e75b6&style=flat" alt="poulavbhowmick03" /> </p>
+<h3 align="center">Hey, I'm Poulav(Odinson). Protocol Fellow at Ethereum and Rust Dev 🦀 </h3>
 
 ## Projects
 - [Gossimini](https://github.com/PoulavBhowmick03/gossimini): A smol version of gossipsub on top of libp2p, multiple nodes can publish messages to topics, and the network gossips them efficiently
