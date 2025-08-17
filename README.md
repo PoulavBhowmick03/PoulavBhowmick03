@@ -1,7 +1,11 @@
-<h1 align="center">Hey there 👋, I'm Poulav Bhowmick</h1>
-<h3 align="center">Core Ethereum Contributor and Blockchain Dev </h3>
+<h1 align="center">Hey there 👋, I'm Poulav(Odinson)</h1>
+<h3 align="center">protocol fellow at ethereum and rust dev 🦀 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poulavbhowmick03&label=Profile%20views&color=0e75b6&style=flat" alt="poulavbhowmick03" /> </p>
 
+## Projects
+- [Gossimini](https://github.com/PoulavBhowmick03/gossimini): A smol version of gossipsub on top of libp2p, multiple nodes can publish messages to topics, and the network gossips them efficiently
+- [Merkle-rs](https://github.com/PoulavBhowmick03/merkle_rs): Implementation of Merkle tree in Rust
+- [Ethereum Version Manager (ethvm)](https://github.com/PoulavBhowmick03/ethvm): a CLI tool in Rust for managing Ethereum Virtual Machine (EVM) versions, specifically [Lighthouse](https://github.com/sigp/lighthouse/tree/unstable) (WIP) 
 ## Notable Open Source Contributions
 
 [Reth](https://github.com/paradigmxyz/reth/commits/main/?author=PoulavBhowmick03) |
