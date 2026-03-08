@@ -11,7 +11,7 @@
 - [catalyst](https://github.com/NethermindEth/Catalyst/commits/master/?author=PoulavBhowmick03): preconf sidecar for taiko rollup
 - [pluto](https://github.com/NethermindEth/charon-rs/): obol's dvt implementation in rust
 - [reth](https://github.com/paradigmxyz/reth/commits/main/?author=PoulavBhowmick03): eth execution layer in rust
-- [lighthouse](https://github.com/sigp/lighthouse/pulls/PoulavBhowmick03): ethereum's consensus client in rust
+- [lighthouse](https://github.com/sigp/lighthouse/pulls/PoulavBhowmick03): ethereum's consensus layer client in rust
 - [libp2p](https://github.com/libp2p/rust-libp2p/commits/master/?author=PoulavBhowmick03): p2p networking protocol
 - [alloy](https://github.com/alloy-rs/alloy/commits/main/?author=PoulavBhowmick03): rust toolkit for evm
 - [revm](https://github.com/bluealloy/revm/pulls/PoulavBhowmick03): rust implementation of evm
