@@ -1,4 +1,4 @@
-<h3> protocol dev, prev: nethermind intern, protocol fellow and rust dev </h3>
+<h3> protocol dev, prev: nethermind intern, ethereum protocol fellow and rust dev </h3>
 
 ### projects
 - (wip)[os-rs](https://github.com/PoulavBhowmick03/os-rs): basic operating system in rust
