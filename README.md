@@ -8,7 +8,7 @@
 
 ### open source contributions
 
-- [logos](https://github.com/logos-blockchain/logos-blockchain/commits/master/?author=PoulavBhowmick03): logos blockchain
+- [stellar-private-payments](https://github.com/NethermindEth/stellar-private-payments/commits/main/?author=PoulavBhowmick03): stellar private payments
 - [catalyst](https://github.com/NethermindEth/Catalyst/commits/master/?author=PoulavBhowmick03): preconf sidecar for taiko rollup
 - [pluto](https://github.com/NethermindEth/charon-rs/): obol's dvt implementation in rust
 - [reth](https://github.com/paradigmxyz/reth/commits/main/?author=PoulavBhowmick03): eth execution layer in rust
