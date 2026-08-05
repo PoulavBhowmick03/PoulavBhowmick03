@@ -1,6 +1,7 @@
 <h3> protocol dev, prev: nethermind intern, ethereum protocol fellow and rust dev </h3>
 
 ### projects
+- [erebus](https://github.com/PoulavBhowmick03/erebus): private agentic transaction protocol
 - (wip)[os-rs](https://github.com/PoulavBhowmick03/os-rs): basic operating system in rust
 - [gossimini](https://github.com/PoulavBhowmick03/gossimini): a smol version of gossipsub on top of libp2p, multiple nodes can publish messages to topics, and the network gossips them efficiently
 - [merkle-rs](https://github.com/PoulavBhowmick03/merkle_rs): implementation of merkle tree in rust
